@@ -1,0 +1,16 @@
+.courses {
+    display: block;
+    padding: 20px;
+    justify-content: space-around;
+}
+
+.block__courses{
+    display: flex;
+    justify-content: space-around;
+}
+.col-4 {
+    width: 30%;
+}
+.card__courses {
+    padding: 20px;
+}
